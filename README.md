@@ -1,2 +1,2 @@
 # life-map
-MOR 478
+Isabel's life map project for MOR 478.
