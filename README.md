@@ -37,5 +37,5 @@ Isabel's life map project for MOR 478.
 ## Welcome to SLC
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4342731085/embed/22b116da663481be4b2755a6c7a49933ffc42c8c'></iframe>
 
-## Guess I run in the mountains now
+## Guess I live in the mountains now
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/5031135530/embed/8c7b58e62bd4b4bdc0b27f06d53ee70d816629d7'></iframe>
